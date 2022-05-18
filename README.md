@@ -19,10 +19,10 @@
 
 ##### For a while, I left technology aside to focus on Business and after COVID, it triggered that old passion again. So here I am, becoming a Web Developer and finding myself finally complete as a whole. My wish to learn and be part of the Web Dev community is enormous, and I believe I have a lot to contribute to the market with my skill set developed through the years.
 
-##### I'm attending a full-time Bootcamp, diving into a Full-Stack Web Development experience, learning a lot and putting it into practice as a team player. Feel free to reach out; I'm looking forward to exchanging information with other developers and openly discussing future hiring opportunities.
+##### I've recently attended a full-time Bootcamp, diving into a Full-Stack Web Development experience, learning a lot and putting it into practice as a team player. Feel free to reach out; I'm looking forward to exchanging information with other developers and openly discussing future hiring opportunities.
 
 
-<h4 align="">Connect with me:</h4>
+<h4 align="center">For more information:</h4>
 <div align="center">
 <a href="https://www.linkedin.com/in/steffani-melo/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -153,6 +153,11 @@
     </a></div>
 
 <br />
+<div align="center">
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=steffanisartini&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=steffanisartini&count_private=true&show_icons=true&theme=tokyonight&showicons=true)]()
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steffanisartini&langs_count=8&theme=tokyonight&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
