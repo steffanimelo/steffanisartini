@@ -13,6 +13,7 @@
 > achievement makes every sacrifice worthwhile. 
 
 <br>
+
 #####  I've worked with communication my whole life, something that I'm passionate about, but the feeling that something was missing for years made me realize that I was not feeling complete and the career shift should happen right away.
 
 ##### The COVID pandemic came ditching devastation to many, indeed unfortunate, but at the same time made people awaken passions from the past, something no different with me. My love for design and technology came from my teenage years when all the beauty of Web Design flourished in the WorldWideWeb. My graduation in Business Administration happened due to my heritage with an Entrepreneur family, so my desire for Business Management and Sales came naturally.
