@@ -18,9 +18,7 @@
 
 ##### The COVID pandemic came ditching devastation to many, indeed unfortunate, but at the same time made people awaken passions from the past, something no different with me. My love for design and technology came from my teenage years when all the beauty of Web Design flourished in the WorldWideWeb. My graduation in Business Administration happened due to my heritage with an Entrepreneur family, so my desire for Business Management and Sales came naturally.
 
-##### For a while, I left technology aside to focus on Business and after moving to Germany, it triggered that old passion again. So here I am, a Jr. Web Developer and finding myself finally complete as a whole. My wish to learn and be part of the Web Dev community is enormous, and I believe I have a lot to contribute to the market with my skill set developed through the years.
-
-##### I've recently attended a full-time Bootcamp, diving into a Full-Stack Web Development experience, learning a lot and putting it into practice as a team player. Feel free to reach out; I'm looking forward to exchanging information with other developers and openly discussing future hiring opportunities.
+##### For a while, I left technology aside to focus on Business and after moving to Germany, it triggered that old passion again. So here I am, a Jr. Web Developer/IAM Developer and finding myself finally complete as a whole. My wish to learn and be part of the Dev community is enormous, and I believe I have a lot to contribute to the market with my skill set developed through the years. I'm looking forward to exchanging information with other developers and engage future conllaborations.
 
 
 <h4 align="center">For more information:</h4>
