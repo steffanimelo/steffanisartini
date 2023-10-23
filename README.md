@@ -2,7 +2,7 @@
 # I'm glad to have you here !
 ![](./img/wd-banner.png)
 
-<h3 align="center">I'm a Jr Web Developer and ready for new challenges 💻</h3>
+<h3 align="center">I'm ready for new challenges 💻 !</h3>
 
 ## About Me
 
@@ -16,9 +16,9 @@
 
 #####  I've worked with communication my whole life, something that I'm passionate about, but the feeling that something was missing for years made me realize that I was not feeling complete and the career shift should happen right away.
 
-##### The COVID pandemic came ditching devastation to many, indeed unfortunate, but at the same time made people awaken passions from the past, something no different with me. My love for design and technology came from my teenage years when all the beauty of Web Design flourished in the WorldWideWeb. My graduation in Business Administration happened due to my heritage with an Entrepreneur family, so my desire for Business Management and Sales came naturally.
+##### The COVID pandemic came ditching devastation to many, indeed unfortunate, but at the same time made people awaken passions from the past, something no different with me. My love for design and technology came from my teenage years when all the beauty of Design flourished in the WorldWideWeb. My graduation in Business Administration happened due to my heritage with an Entrepreneur family, thus my desire for Business Management and Sales came naturally.
 
-##### For a while, I left technology aside to focus on Business and after moving to Germany, it triggered that old passion again. So here I am, a Jr. Web Developer/IAM Developer and finding myself finally complete as a whole. My wish to learn and be part of the Dev community is enormous, and I believe I have a lot to contribute to the market with my skill set developed through the years. I'm looking forward to exchanging information with other developers and engage future conllaborations.
+##### For a while, I left technology aside to focus on Business and after moving to Germany, it triggered that old passion again. So here I am, an IAM/Web Developer finding myself finally complete as a whole. My wish to learn and be part of the Dev community is enormous, and I believe I have a lot to contribute to the market with my skill set developed through the years. I'm looking forward to exchanging information with other developers and engage on future collaborations.
 
 
 <h4 align="center">For more information:</h4>
