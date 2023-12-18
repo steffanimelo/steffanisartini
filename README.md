@@ -209,10 +209,10 @@
 <br />
 <div align="center">
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=steffanisartini&count_private=true&show_icons=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=steffanimelo&count_private=true&show_icons=true&theme=tokyonight&showicons=true)]()
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steffanisartini&langs_count=8&theme=tokyonight&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steffanimelo&langs_count=8&theme=tokyonight&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
  </div>
